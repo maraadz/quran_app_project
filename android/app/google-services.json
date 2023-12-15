@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "140526148187",
+    "project_id": "quran-api-c4c4e",
+    "storage_bucket": "quran-api-c4c4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140526148187:android:5a00f3e05eec73e015bd7e",
+        "android_client_info": {
+          "package_name": "com.example.quranapp_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyW5hGb5eyNAVn_gqV2LdmPJrCrJdg4Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140526148187:android:2961cfe91721edd815bd7e",
+        "android_client_info": {
+          "package_name": "com.example.surahpendek_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyW5hGb5eyNAVn_gqV2LdmPJrCrJdg4Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140526148187:android:a86f5e467911648715bd7e",
+        "android_client_info": {
+          "package_name": "com.example.uas_prak_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyW5hGb5eyNAVn_gqV2LdmPJrCrJdg4Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
